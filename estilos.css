@@ -1,0 +1,73 @@
+img{
+    width: 250px;
+}
+.formato{
+    margin: 0 auto;
+    border-bottom: 4px solid black;
+
+    border-right: 4px solid black;
+}
+.formato:first-child{
+    background: none;
+    border: none;
+}
+h6 span{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 0 10px;
+    color: white;
+}
+.texto{
+    width: 150px;
+    border: none;
+    border-bottom: 1px solid black;
+    background: none;
+}
+.border{
+    border: 4px;
+}
+.año{
+    width: 100px;
+    background: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.fecha{
+    width: 50px;
+    background: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.tittle{
+
+}
+i{
+    font-size: 12px;
+}
+.formato{
+    background-color: rgb(242,250,252);
+}
+.cabecera:first-child{
+    border: 1px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    border-radius: 15px;
+}
+table{
+    margin: 0 auto;
+    /* border: 1px solid black; */
+}
+td{
+    border: 1px solid black;
+}
+td input{
+    background: none;
+    border: none;
+}
+.texto-titulo{
+    border: 2px solid black;
+}
+.p1{
+    background-color:cornflowerblue;
+}
